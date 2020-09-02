@@ -7,6 +7,11 @@
 *.sublime*
 .vscode
 
+#Modules and production folders
+build/
+node_modules/
+jspm_packages/
+bower_components/
 
 #Some logs
 logs
